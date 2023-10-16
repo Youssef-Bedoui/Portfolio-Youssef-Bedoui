@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.04730331.css",
-    "main.js": "/static/js/main.04543049.js",
+    "main.js": "/static/js/main.54a477cb.js",
     "static/media/profile_photo.png": "/static/media/profile_photo.1598651cc1abe52e6fee.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.1a27bc4bb1b1d89e2378.png",
     "static/media/React App - Opera 07_05_2023 2_32_25 AM.png": "/static/media/React App - Opera 07_05_2023 2_32_25 AM.1b60b3b1b17b12fdfacd.png",
@@ -59,10 +59,10 @@
     "static/media/services-1.webp": "/static/media/services-1.c7b62c977d66365859a7.webp",
     "index.html": "/index.html",
     "main.04730331.css.map": "/static/css/main.04730331.css.map",
-    "main.04543049.js.map": "/static/js/main.04543049.js.map"
+    "main.54a477cb.js.map": "/static/js/main.54a477cb.js.map"
   },
   "entrypoints": [
     "static/css/main.04730331.css",
-    "static/js/main.04543049.js"
+    "static/js/main.54a477cb.js"
   ]
 }
