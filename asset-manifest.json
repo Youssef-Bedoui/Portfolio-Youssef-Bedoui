@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Youssef-Bedoui/static/css/main.9aa3e868.css",
-    "main.js": "/Portfolio-Youssef-Bedoui/static/js/main.0775ab42.js",
+    "main.js": "/Portfolio-Youssef-Bedoui/static/js/main.cd0ae343.js",
     "static/media/profile_photo.png": "/Portfolio-Youssef-Bedoui/static/media/profile_photo.1598651cc1abe52e6fee.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.png": "/Portfolio-Youssef-Bedoui/static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.1a27bc4bb1b1d89e2378.png",
     "static/media/React App - Opera 07_05_2023 2_32_25 AM.png": "/Portfolio-Youssef-Bedoui/static/media/React App - Opera 07_05_2023 2_32_25 AM.1b60b3b1b17b12fdfacd.png",
@@ -59,10 +59,10 @@
     "static/media/services-1.webp": "/Portfolio-Youssef-Bedoui/static/media/services-1.c7b62c977d66365859a7.webp",
     "index.html": "/Portfolio-Youssef-Bedoui/index.html",
     "main.9aa3e868.css.map": "/Portfolio-Youssef-Bedoui/static/css/main.9aa3e868.css.map",
-    "main.0775ab42.js.map": "/Portfolio-Youssef-Bedoui/static/js/main.0775ab42.js.map"
+    "main.cd0ae343.js.map": "/Portfolio-Youssef-Bedoui/static/js/main.cd0ae343.js.map"
   },
   "entrypoints": [
     "static/css/main.9aa3e868.css",
-    "static/js/main.0775ab42.js"
+    "static/js/main.cd0ae343.js"
   ]
 }
