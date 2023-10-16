@@ -6,7 +6,7 @@ import App from "./App";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router basename={"/Portfolio-Youssef-Bedoui"}>
+    <Router>
       <Routes>
         <Route exact path="/" element={<App />} />
       </Routes>
