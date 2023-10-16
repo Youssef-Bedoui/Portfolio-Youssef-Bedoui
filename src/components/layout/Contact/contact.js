@@ -28,7 +28,7 @@ const handleFormSubmit = async (e) => {
         headers: {
           "Content-Type": "application/json",
         },
-        body: JSON.stringify(formData), 
+        body: formData, 
       }
     );
 
@@ -93,7 +93,7 @@ const handleFormSubmit = async (e) => {
           CONTACT FORM
           <div className="line"></div>
         </h3>
-        <input placeholder="Name" className="input" name="name" type="text" />
+        <input placeholder="Name" className="input" name="name" type="text"/>
         <input
           placeholder="E-mail"
           className="input"
