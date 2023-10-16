@@ -1,0 +1,99 @@
+$primaryColorText: #02c8f1;
+
+#about {
+  min-height: 100vh;
+  width: 100%;
+  margin-top: 100px;
+  .about_title {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 400;
+     @media (max-width: 1012px) {
+    font-size: 30px;
+  }
+    .colored {
+      color: $primaryColorText;
+    }
+  }
+  .divider {
+    height: 5px;
+    background-color: $primaryColorText;
+    width: 80%;
+    margin: 5px auto;
+  }
+  .about_container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    @media (max-width:1012px) {
+        flex-direction: column;
+        .left_section, .right_section {
+        width: 100% !important; 
+        height: auto !important;
+      }
+      .right_section{
+        margin-top: 30px;
+      }
+    }
+    .right_section,
+    .left_section {
+      width: 50%;
+      padding-top: 40px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+    }
+    .left_section {
+      height: calc(100vh - 80px);
+      justify-content: flex-start;
+      background-color: #ffffff10;
+      .about_paragraph{
+        width: 80%;
+        margin: 0 auto;
+        text-align: justify;
+        line-height: 30px;
+        letter-spacing: 2px;
+      }
+    }
+    .right_section {
+      height: calc(100vh - 80px);
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      background-color: #02c9f113;
+      .aboutInfoItem {
+        margin: 20px auto;
+        width: 60%;
+        border-bottom: 2px solid $primaryColorText;
+        padding-bottom: 5px;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        .colored {
+          color: $primaryColorText;
+        }
+      }
+      .contactBtn{
+        padding: 10px 20px;
+        color: #000000;
+        background-color: $primaryColorText;
+        font-size: 18px;
+        font-weight: bold;
+        border: none;
+        &:hover{
+        cursor: pointer;
+        color: $primaryColorText;
+        background-color:#000000 ;
+        outline: 2px solid $primaryColorText;
+        transition: .2s ease;
+      }
+      }
+    }
+    
+  }
+}

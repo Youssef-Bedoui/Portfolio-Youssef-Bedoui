@@ -1,0 +1,102 @@
+$primaryColorText: #02c8f1;
+
+#hero {
+  height: calc(100vh - 80px);
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  .hero_intro {
+    position: absolute;
+    top: -80px;
+    right: 0;
+    height: 100vh;
+    width: 70%;
+    z-index: 3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+    font-weight: 500;
+    font-size: 50px;
+    @media (max-width: 650px) {
+      position: absolute;
+      top: 0;
+      width: 60%;
+      font-size: 30px;
+    }
+    .welcome {
+      font-size: 20px;
+      font-weight: 400;
+      line-height: 30px;
+      @media (max-width:650px) {
+      font-size: 16px;
+    }
+    }
+    .intro_info {
+      margin: 20px 0;
+      .intro_name {
+        color: $primaryColorText;
+      }
+    }
+    .intro_content {
+      font-size: 20px;
+      @media (max-width:650px) {
+      font-size: 15px;
+    }
+    }
+  }
+  .hero_image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    object-fit: cover;
+    height: 100vh;
+    width: 40%;
+    @media (max-width: 460px) {
+      width: 60%;
+    }
+  }
+  .intro_btns {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    @media (max-width: 650px) {
+      width: 100%;
+      flex-direction: column;
+      margin-top: 20%;
+    }
+    .link {
+      text-decoration: none;
+      padding: 10px 15px;
+      margin: 10px 30px;
+      font-size: 17px;
+      font-weight: bold;
+      color: $primaryColorText;
+      background-color: transparent;
+      display: flex;
+      align-items: center;
+      border: none;
+      border-radius: 30px;
+      box-shadow: 0 0 10px 5px $primaryColorText;
+      @media (max-width: 650px) {
+        padding: 5px 10px;
+        margin: 15px 10px;
+        font-size: 15px;
+      }
+      &:hover {
+        cursor: pointer;
+        transform: scale(1.1);
+        transition: 0.2s ease-out;
+      }
+      .btnIcon {
+        margin-right: 5px;
+      }
+    }
+  }
+}

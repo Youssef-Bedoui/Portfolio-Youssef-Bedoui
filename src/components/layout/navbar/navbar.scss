@@ -1,0 +1,71 @@
+@mixin flex($flexDirection, $justify, $align) {
+  display: flex;
+  justify-content: $justify;
+  align-items: $align;
+  flex-direction: $flexDirection;
+}
+$primaryColorText: #02c8f1;
+
+.navbar {
+  @include flex(row, space-between, center);
+  height: 80px;
+  width: 100vw;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 5px 10px;
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  background-color: #000000;
+  @media (max-width: 768px) {
+    padding: 0;
+  }
+  .logo {
+    object-fit: contain;
+    max-height: 80px;
+    width: 250px;
+    @media (max-width: 768px) {
+      width: 100px;
+    }
+  }
+  .menu {
+    .menuLinkItem {
+      margin: 20px;
+      font-weight: bold;
+      letter-spacing: 2px;
+      cursor: pointer;
+      @media (max-width: 650px) {
+        margin: 5px;
+        letter-spacing: 0;
+      }
+      &:hover {
+        color: $primaryColorText;
+        border-bottom: 3px solid $primaryColorText;
+        padding-bottom: 10px;
+        transition: 0.3s ease;
+      }
+    }
+    .active {
+      color: $primaryColorText;
+    }
+  }
+  .contactBtn {
+    background-color: transparent;
+    border: 2px solid $primaryColorText;
+    padding: 5px;
+    border-radius: 10px;
+    color: $primaryColorText;
+    @include flex(row, space-between, center);
+    &:hover{
+      cursor: pointer;
+    }
+  }
+  .contactIcon {
+    margin-right: 5px;
+  }
+  .contactBtnText {
+    @media (max-width: 650px) {
+      display: none;
+    }
+  }
+}

@@ -1,0 +1,126 @@
+$primaryColorText: #02c8f1;
+#skills {
+  min-height: 100vh;
+  width: 80%;
+  margin: 100px auto;
+  margin-bottom: 0;
+  @media (max-width: 1012px) {
+    margin: 50px auto;
+  }
+  .skills_title {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    font-size: 45px;
+     @media (max-width: 1012px) {
+    font-size: 30px;
+  }
+    .divider {
+      width: 100%;
+      height: 4px;
+      background-color: $primaryColorText;
+      position: absolute;
+      bottom: -10px;
+      left: 0;
+    }
+  }
+  .skills_container {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    @media (max-width: 1012px) {
+      height: fit-content;
+      margin: 30px auto;
+    }
+  }
+  .skill_item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 20px;
+   
+      margin: 10px;
+      .circle {
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        box-shadow: 0 0 10px 5px #02c9f163;
+        margin-bottom: 10px;
+        position: relative;
+      }
+      .skill_title {
+        padding: 3px 5px;
+        width: 100%;
+        text-align: center;
+        background-color: #02c9f12f;
+      }
+    
+  }
+  //services
+  .services {
+    min-height: calc(100vh - 80px);
+    .services_title {
+      font-size: 30px;
+      position: relative;
+      width: 40%;
+      @media (max-width: 1012px) {
+          width: 100%;
+          font-size: 25px;
+          margin: 30px auto;
+        }
+      .divider {
+        position: absolute;
+        bottom: -10px;
+        left: 0;
+        width: 45%;
+        height: 5px;
+        background-color: $primaryColorText;
+      }
+    }
+    .services_container {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      flex-wrap: wrap;
+      @media (max-width: 760px) {
+        flex-direction: column;
+      }
+      .service_item {
+        margin-top: 30px;
+        margin-bottom: 100px;
+        height: 80vh;
+        padding-bottom: 10px;
+        width: 30%;
+        border-radius: 20px;
+        box-shadow: 0px 0px 15px $primaryColorText;
+        @media (max-width: 1012px) {
+          width: 90%;
+        }
+        .service_img {
+          height: 50%;
+          width: 100%;
+          object-fit: cover;
+          border-radius: 20px;
+        }
+        .service_name {
+          font-size: 28px;
+          margin-bottom: 20px;
+          padding: 0 5px;
+          @media (max-width: 760px) {
+            font-size: 22px;
+            margin-bottom: 10px;
+          }
+        }
+        .service_parag {
+          text-align: justify;
+          padding: 0 5px;
+          line-height: 25px;
+        }
+      }
+    }
+  }
+}

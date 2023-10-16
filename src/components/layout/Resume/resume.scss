@@ -1,0 +1,94 @@
+$primaryColorText: #02c8f1;
+
+#resume {
+  min-height: 100vh;
+  .resume_title {
+    font-size: 45px;
+    text-align: center;
+    margin: 30px auto;
+    margin-bottom: 0;
+  }
+
+  .resume_container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+
+    .education,
+    .right_section {
+      width: 50%;
+      min-height: 100%;
+      padding: 30px;
+      @media (max-width: 768px) {
+        width: 90%;
+        padding: 10px;
+      }
+      .title {
+        padding: 10px 0;
+        font-size: 28px;
+        letter-spacing: 2px;
+        position: relative;
+        .line {
+          height: 4px;
+          width: 10%;
+          background-color: $primaryColorText;
+          position: absolute;
+          bottom: 0px;
+        }
+      }
+    }
+    .education_container,
+    .certifications,
+    .courses {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      width: 100%;
+      padding-left: 20px;
+      margin: 10px 0;
+      border-left: 2px solid $primaryColorText;
+      .education-item,
+      .certification_item,
+      .course_item {
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        margin-bottom: 20px;
+      }
+
+      .date {
+        width: fit-content;
+        font-weight: bold;
+        padding-right: 10px;
+        margin: 10px 0;
+        position: relative;
+        &::before {
+          content: "";
+          position: absolute;
+          top: 11px;
+          left: -25px;
+          width: 9px;
+          height: 9px;
+          border-radius: 50%;
+          box-shadow: 0 0 2px 2px $primaryColorText;
+          background-color: $primaryColorText;
+        }
+      }
+       .place{
+        font-size: 14px;
+        margin-bottom: 5px;
+       }
+      .event {
+        background-color: #02c9f18c;
+        color: #fff;
+        padding: 5px 10px;
+        border-radius: 5px;
+      }
+    }
+    .right_section {
+    }
+  }
+}

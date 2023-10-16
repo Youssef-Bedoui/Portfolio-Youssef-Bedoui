@@ -1,0 +1,240 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "KLUPEA | E-COMMERCE-APP",
+      "type": "Solo Work",
+      "date": "Octobre, 2022 - February, 2023",
+      "skills": "HTML, CSS, JS, React Js, Redux, Bootstrap, Matrial UI, Express Js, mySQL",
+      "description": "Klupea is an e-commerce web application built with React, It's a simple and user-friendly online clothing store that offers a wide variety of apparel for all genders and ages. The website's design is visually appealing and provides a seamless shopping experience. With easy navigation and secure checkout process. Klupea is an excellent choice for anyone looking to purchase high-quality clothing online. As a React developer, I was responsible for creating and maintaining the front-end of the website, ensuring that it was both functional and aesthetically pleasing.",
+      "github_code1": "https://github.com/Youssef-Bedoui/Klupea-with-Redux",
+      "github_code2": "https://github.com/Youssef-Bedoui/Klupea-with-redux-backend",
+      "images": [
+        {
+          "id": 1,
+          "url": "klupea/Klupea_main.png"
+        },
+        {
+          "id": 2,
+          "url": "klupea/2023-03-02 (4).png"
+        },
+        {
+          "id": 3,
+          "url": "klupea/Klupea - Opera 01_06_2023 12_00_32 AM.png"
+        },
+        {
+          "id": 4,
+          "url": "klupea/Klupea - Opera 01_06_2023 12_00_42 AM.png"
+        },
+        {
+          "id": 5,
+          "url": "klupea/Klupea - Opera 31_05_2023 11_57_33 PM.png"
+        },
+        {
+          "id": 6,
+          "url": "klupea/Klupea - Opera 31_05_2023 11_57_43 PM.png"
+        },
+        {
+          "id": 7,
+          "url": "klupea/Klupea - Opera 31_05_2023 11_58_19 PM.png"
+        },
+        {
+          "id": 8,
+          "url": "klupea/Klupea - Opera 31_05_2023 11_58_30 PM.png"
+        },
+        {
+          "id": 9,
+          "url": "klupea/Klupea - Opera 31_05_2023 11_58_42 PM.png"
+        },
+        {
+          "id": 10,
+          "url": "klupea/Klupea - Opera 31_05_2023 11_58_47 PM.png"
+        },
+        {
+          "id": 11,
+          "url": "klupea/Klupea - Opera 31_05_2023 11_58_54 PM.png"
+        },
+        {
+          "id": 12,
+          "url": "klupea/Klupea - Opera 31_05_2023 11_59_04 PM.png"
+        },
+        {
+          "id": 13,
+          "url": "klupea/Klupea - Opera 31_05_2023 11_59_12 PM.png"
+        },
+        {
+          "id": 14,
+          "url": "klupea/Klupea - Opera 31_05_2023 11_59_19 PM.png"
+        },
+        {
+          "id": 15,
+          "url": "klupea/Klupea - Opera 31_05_2023 11_59_35 PM.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "EVENTOGO | E-COMMERCE-APP",
+      "type": "Solo Work",
+      "date": "February, 2023 - April, 2023",
+      "skills": "HTML, CSS, JS, Vue Js, Bootstrap, Express Js, mySQL",
+      "description": "Eventogo is a website that help peoples to simply check and search for the nearest events that they can attend.",
+      "github_code1": "https://github.com/Youssef-Bedoui/Klupea-E-commerce-app.git",
+      "github_code2": "https://github.com/Youssef-Bedoui/Klupea-back.git",
+      "images": [
+        {
+          "id": 1,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_40_49 AM.png"
+        },
+        {
+          "id": 2,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_36_24 AM.png"
+        },
+        {
+          "id": 3,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_36_41 AM.png"
+        },
+        {
+          "id": 4,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_41_45 AM.png"
+        },
+        {
+          "id": 5,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_42_02 AM.png"
+        },
+        {
+          "id": 6,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_42_26 AM.png"
+        },
+        {
+          "id": 7,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_43_07 AM.png"
+        },
+        {
+          "id": 8,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_43_14 AM.png"
+        },
+        {
+          "id": 9,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_43_24 AM.png"
+        },
+        {
+          "id": 10,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_44_25 AM.png"
+        },
+        {
+          "id": 11,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_44_33 AM.png"
+        },
+        {
+          "id": 12,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_44_37 AM.png"
+        },
+        {
+          "id": 13,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_26_14 AM.png"
+        },
+        {
+          "id": 14,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_51_32 AM.png"
+        },
+        {
+          "id": 15,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_51_53 AM.png"
+        },
+        {
+          "id": 16,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_53_32 AM.png"
+        },
+        {
+          "id": 17,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_53_32 AM.png"
+        },
+        {
+          "id": 18,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_53_32 AM.png"
+        },
+        {
+          "id": 19,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_53_41 AM.png"
+        },
+        {
+          "id": 20,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_53_57 AM.png"
+        },
+        {
+          "id": 21,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_54_02 AM.png"
+        },
+        {
+          "id": 22,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_54_09 AM.png"
+        },
+        {
+          "id": 23,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_54_22 AM.png"
+        },
+        {
+          "id": 24,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_54_29 AM.png"
+        },
+        {
+          "id": 25,
+          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_56_06 AM.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "MOVIELIGHTS | WEB APP",
+      "type": "Solo Work",
+      "date": "April, 2023 - May, 2023",
+      "skills": "HTML, CSS, JS, React JS + redux, Material UI, framer-motion, The Movie Database API(TMDB)",
+      "description": "Introducing MovieLights - the ultimate destination for movie enthusiasts! Our website offers a comprehensive platform to search for movies and access key details, including the storyline, casting crew, ratings, and trailers. With MovieLights, you can stay up-to-date with the latest releases and make informed decisions on what to watch next. Say goodbye to the hassle of endlessly scrolling through streaming platforms - let MovieLights guide your movie journey with ease and efficiency.",
+      "github_code1": "https://github.com/Youssef-Bedoui/MovieLights-Web-app",
+      "website": "https://youssef-bedoui.github.io/MovieLights-Web-app",
+      "images": [
+        {
+          "id": 1,
+          "url": "MovieLights/React App - Opera 14_05_2023 9_09_16 PM.png"
+        },
+        {
+          "id": 2,
+          "url": "MovieLights/React App - Opera 07_05_2023 2_32_03 AM.png"
+        },
+        {
+          "id": 3,
+          "url": "MovieLights/React App - Opera 07_05_2023 2_32_16 AM.png"
+        },
+        {
+          "id": 4,
+          "url": "MovieLights/React App - Opera 07_05_2023 2_32_25 AM.png"
+        },
+        {
+          "id": 5,
+          "url": "MovieLights/React App - Opera 09_05_2023 12_42_57 AM.png"
+        },
+        {
+          "id": 6,
+          "url": "MovieLights/React App - Opera 14_05_2023 9_09_29 PM.png"
+        },
+        {
+          "id": 7,
+          "url": "MovieLights/React App - Opera 14_05_2023 9_10_01 PM.png"
+        },
+        {
+          "id": 8,
+          "url": "MovieLights/React App - Opera 14_05_2023 9_10_21 PM.png"
+        },
+        {
+          "id": 9,
+          "url": "MovieLights/React App - Opera 14_05_2023 9_10_41 PM.png"
+        },
+        {
+          "id": 10,
+          "url": "MovieLights/React App - Opera 14_05_2023 9_10_48 PM.png"
+        }
+      ]
+    }
+  ]
+}

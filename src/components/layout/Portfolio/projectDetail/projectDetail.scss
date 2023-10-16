@@ -1,0 +1,121 @@
+$primaryColorText: #02c8f1;
+
+.projectDetailsModal {
+  position: fixed;
+  top: 80px;
+  right: 5%;
+  left: 5%;
+  bottom: 10px;
+  border-radius: 10px;
+  background-color: #02c9f1d0;
+  backdrop-filter: blur(5px);
+  box-shadow: 0 0 3px 3px $primaryColorText;
+  animation: pop 0.2s ease;
+  overflow-y: scroll;
+  @keyframes pop {
+    0% {
+      opacity: 0;
+      transform: scale(0.2);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+  z-index: 10;
+  .closeModalBtn {
+    position: fixed;
+    right: 10px;
+    top: 10px;
+    width: 40px;
+    height: 40px;
+    .X_icon {
+      width: 100%;
+      height: 100%;
+      &:hover {
+        cursor: pointer;
+        color: red;
+        transition: 0.3s ease;
+        transform: scale(1.2);
+      }
+    }
+  }
+  .detail_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 95%;
+    margin: 20px auto;
+    border: 1px solid #0000;
+
+    .images_section,
+    .details_section {
+      flex: 1;
+      width: 50%;
+      @media (max-width: "980px") {
+        width: 100%;
+        margin: 40px auto;
+      }
+      border: 1px solid #0000;
+    }
+    .images_section {
+      .image_cont {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        object-fit: fill;
+        height: 400px;
+        @media (max-width: "980px") {
+          width: 100%;
+          height: 250px;
+        }
+      }
+      .image_style {
+        height: 100%;
+        width: 100%;
+        object-fit: fill;
+      }
+    }
+
+    .details_section {
+      padding: 30px;
+      color: #000000;
+      position: relative;
+      ul {
+        list-style: none;
+        margin: 10px 0;
+        font-weight: 600;
+        .type {
+          margin-bottom: 10px;
+        }
+        .name {
+          margin-bottom: 15px;
+        }
+        .colored {
+          color: #e8fd29;
+        }
+      }
+      .description {
+        color: #000000;
+        font-size: 18px;
+      }
+      .codeBtns {
+        margin: 20px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        .codeBtn {
+          border: 3px solid #1d1d1d;
+          padding: 10px;
+          color: #000000;
+          &:hover{
+            background-color: #1d1d1d;
+            color: #fff;
+            transition: .3s ease;
+          }
+        }
+      }
+    }
+  }
+}
