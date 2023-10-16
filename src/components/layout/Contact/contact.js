@@ -9,17 +9,32 @@ import AlertTitle from "@mui/material/AlertTitle";
 function Contact() {
   const [success, setSuccess] = useState(false);
   const [error, setError] = useState(false);
+const handleFormSubmit = async (e) => {
+  e.preventDefault();
+  const formData = new FormData(e.target);
 
-  const handleFormSubmit = async (e) => {
-    e.preventDefault();
-    try {
+  try {
+    const response = await fetch(
+      "https://portfolio-back-yw6i.onrender.com/contact_me/",
+      {
+        method: "POST",
+        body: formData,
+      }
+    );
+
+    if (response.ok) {
       setSuccess(true);
       setError(false);
-    } catch (error) {
+    } else {
       setError(true);
       setSuccess(false);
     }
-  };
+  } catch (error) {
+    console.log(error)
+    setError(true);
+    setSuccess(false);
+  }
+};
 
   return (
     <section id="contact">
@@ -59,8 +74,7 @@ function Contact() {
         </div>
       </div>
       <form
-        action="https://portfolio-back-yw6i.onrender.com/contact_me"
-        method="post"
+   
         className="right_section"
         onSubmit={handleFormSubmit}
       >
