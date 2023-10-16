@@ -6,6 +6,7 @@ $primaryColorText: #02c8f1;
   margin-bottom: 0;
   @media (max-width: 1012px) {
     margin: 50px auto;
+    max-width: 90%;
   }
   .skills_title {
     width: 100%;
@@ -67,10 +68,9 @@ $primaryColorText: #02c8f1;
       font-size: 30px;
       position: relative;
       width: 40%;
-      @media (max-width: 1012px) {
-          width: 100%;
-          font-size: 25px;
-          margin: 30px auto;
+      margin: 20px 0;
+       @media (max-width: 1012px) {
+          width: 80%;
         }
       .divider {
         position: absolute;
@@ -99,6 +99,8 @@ $primaryColorText: #02c8f1;
         box-shadow: 0px 0px 15px $primaryColorText;
         @media (max-width: 1012px) {
           width: 90%;
+          margin: 20px auto;
+          height: fit-content;
         }
         .service_img {
           height: 50%;

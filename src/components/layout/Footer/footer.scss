@@ -1,0 +1,19 @@
+$primaryColorText: #02c8f1;
+
+footer{
+    min-height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 4px solid $primaryColorText;
+    margin-top: 20px;
+
+    p{
+        font-size: 30px;
+        text-shadow: 0 5px 5px $primaryColorText;
+        @media (max-width:1012px) {
+            font-size: 18px;
+            text-align: center;
+        }
+    }
+}

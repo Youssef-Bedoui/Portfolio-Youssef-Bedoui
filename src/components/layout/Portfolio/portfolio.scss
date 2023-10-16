@@ -5,6 +5,9 @@ $primaryColorText: #02c8f1;
   width: 80%;
   margin: 50px auto;
   position: relative;
+   @media (max-width: 1012px) {
+    max-width: 90%;
+  }
 
   .title{
     font-size: 45px;
