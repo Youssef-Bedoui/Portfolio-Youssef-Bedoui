@@ -11,15 +11,24 @@ function Contact() {
   const [error, setError] = useState(false);
 const handleFormSubmit = async (e) => {
   e.preventDefault();
-  const formData = new FormData(e.target);
-  console.log(formData)
+
+  const formData = {
+    name: e.target.name.value,
+    email: e.target.email.value,
+    message: e.target.message.value,
+  };
+
+  console.log(formData);
 
   try {
     const response = await fetch(
       "https://portfolio-back-yw6i.onrender.com/contact_me/",
       {
         method: "POST",
-        body: formData,
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(formData), 
       }
     );
 
@@ -31,11 +40,12 @@ const handleFormSubmit = async (e) => {
       setSuccess(false);
     }
   } catch (error) {
-    console.log(error)
+    console.log(error);
     setError(true);
     setSuccess(false);
   }
 };
+
 
   return (
     <section id="contact">
