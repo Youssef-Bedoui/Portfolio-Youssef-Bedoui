@@ -12,6 +12,7 @@ function Contact() {
 const handleFormSubmit = async (e) => {
   e.preventDefault();
   const formData = new FormData(e.target);
+  console.log(formData)
 
   try {
     const response = await fetch(
