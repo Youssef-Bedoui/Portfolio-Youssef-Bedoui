@@ -235,6 +235,26 @@
           "url": "MovieLights/React App - Opera 14_05_2023 9_10_48 PM.png"
         }
       ]
+    },
+    {
+      "id": 4,
+      "name": "Rainy Foreacst | Weather Forecast APP",
+      "type": "Solo Work",
+      "date": "Aout, 2023 - Septembre, 2023",
+      "skills": "HTML, CSS, JS, React Js, Bootstrap, Matrial UI",
+      "description": "The Rainy Forecast app provides you with the current weather conditions and a 3-day weather forecast at your fingertips. Stay prepared for any outdoor plans by easily checking the rain forecast and other important weather information, helping you make the most of your day. Powered by Weatherapi API.",
+      "github_code1": "https://github.com/Youssef-Bedoui/Rainy_Forecast_Web_App",
+      "website": "https://youssef-bedoui.github.io/Rainy_Forecast_Web_App/",
+      "images": [
+        {
+          "id": 1,
+          "url": "RainyForecast/React App - Opera 18_10_2023 8_25_10 PM.png"
+        },
+        {
+          "id": 2,
+          "url": "RainyForecast/React App - Opera 18_10_2023 8_25_17 PM.png"
+        }
+      ]
     }
   ]
 }

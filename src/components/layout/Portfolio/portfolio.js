@@ -3,6 +3,7 @@ import "./portfolio.scss";
 import Klupea_img from "../../../assets/images/portfolio/klupea/Klupea_main.png";
 import EvenToGo_img from "../../../assets/images/portfolio/Eventogo/EvenToGo - Opera 28_04_2023 12_40_49 AM.png";
 import MovieLights_img from "../../../assets/images/portfolio/MovieLights/React App - Opera 14_05_2023 9_09_16 PM.png";
+import RainyForecast_img from "../../../assets/images/portfolio/RainyForecast/React App - Opera 18_10_2023 8_25_17 PM.png";
 import ProjectDetailModal from "./projectDetail/projectDetail";
 
 function Portfolio() {
@@ -70,7 +71,11 @@ function Portfolio() {
               openModal(3);
             }}
           >
-            <img src={Klupea_img} alt="Klupea" className="project_image" />
+            <img
+              src={RainyForecast_img}
+              alt="Klupea"
+              className="project_image"
+            />
             <div className="project_details">
               <div className="project_name">Rainy Forecast</div>
               <div className="project_type">Website</div>
