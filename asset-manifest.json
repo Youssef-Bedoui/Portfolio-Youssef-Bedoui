@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.04730331.css",
-    "main.js": "/static/js/main.15c676a6.js",
+    "main.js": "/static/js/main.8bfd152b.js",
     "static/media/profile_photo.png": "/static/media/profile_photo.1598651cc1abe52e6fee.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.1a27bc4bb1b1d89e2378.png",
     "static/media/React App - Opera 07_05_2023 2_32_25 AM.png": "/static/media/React App - Opera 07_05_2023 2_32_25 AM.1b60b3b1b17b12fdfacd.png",
@@ -20,6 +20,8 @@
     "static/media/React App - Opera 14_05_2023 9_09_16 PM.png": "/static/media/React App - Opera 14_05_2023 9_09_16 PM.ed577052d23ba64835d2.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_41_45 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_41_45 AM.6a5eca784b1c1e0b48cf.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_36_24 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_36_24 AM.750a4e7f9530e4f9a37c.png",
+    "static/media/React App - Opera 18_10_2023 8_25_17 PM.png": "/static/media/React App - Opera 18_10_2023 8_25_17 PM.d48d65527a71f564ef32.png",
+    "static/media/React App - Opera 18_10_2023 8_25_10 PM.png": "/static/media/React App - Opera 18_10_2023 8_25_10 PM.3f3f4edec44f3de80799.png",
     "static/media/Klupea - Opera 31_05_2023 11_57_43 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_57_43 PM.a3dd9e795710eae7702e.png",
     "static/media/Klupea - Opera 31_05_2023 11_58_19 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_58_19 PM.6ddc6e12be6468590ee4.png",
     "static/media/EvenToGo - Opera 28_04_2023 1_26_14 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 1_26_14 AM.1057901f5d9864e62a9e.png",
@@ -59,10 +61,10 @@
     "static/media/services-1.webp": "/static/media/services-1.c7b62c977d66365859a7.webp",
     "index.html": "/index.html",
     "main.04730331.css.map": "/static/css/main.04730331.css.map",
-    "main.15c676a6.js.map": "/static/js/main.15c676a6.js.map"
+    "main.8bfd152b.js.map": "/static/js/main.8bfd152b.js.map"
   },
   "entrypoints": [
     "static/css/main.04730331.css",
-    "static/js/main.15c676a6.js"
+    "static/js/main.8bfd152b.js"
   ]
 }
