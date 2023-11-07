@@ -255,6 +255,41 @@
           "url": "RainyForecast/React App - Opera 18_10_2023 8_25_17 PM.png"
         }
       ]
+    },
+    {
+      "id": 5,
+      "name": "Al Aajel News | News Website",
+      "type": "Solo Work",
+      "date": "Septembre, 2023 - Novermbre, 2023",
+      "skills": "HTML, SCSS, JS, React Js, React-Redux",
+      "description": "Al Aajel News: Your one-stop platform for diverse news articles from various sources and live news channels, all in a simple and user-friendly interface. Powered by Newsapi API.",
+      "github_code1": "https://github.com/Youssef-Bedoui/Al-Aajel-News-Website.git",
+      "images": [
+        {
+          "id": 1,
+          "url": "Al_Aajel_News/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_58_48 PM.png"
+        },
+        {
+          "id": 2,
+          "url": "Al_Aajel_News/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_09 PM.png"
+        },
+        {
+          "id": 3,
+          "url": "Al_Aajel_News/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_16 PM.png"
+        },
+        {
+          "id": 4,
+          "url": "Al_Aajel_News/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_43 PM.png"
+        },
+        {
+          "id": 5,
+          "url": "Al_Aajel_News/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_53 PM.png"
+        },
+        {
+          "id": 6,
+          "url": "Al_Aajel_News/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 10_11_43 PM.png"
+        }
+      ]
     }
   ]
 }
