@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.04730331.css",
-    "main.js": "/static/js/main.8bfd152b.js",
+    "main.css": "/static/css/main.dba8ce07.css",
+    "main.js": "/static/js/main.e3637474.js",
     "static/media/profile_photo.png": "/static/media/profile_photo.1598651cc1abe52e6fee.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.1a27bc4bb1b1d89e2378.png",
     "static/media/React App - Opera 07_05_2023 2_32_25 AM.png": "/static/media/React App - Opera 07_05_2023 2_32_25 AM.1b60b3b1b17b12fdfacd.png",
@@ -20,14 +20,19 @@
     "static/media/React App - Opera 14_05_2023 9_09_16 PM.png": "/static/media/React App - Opera 14_05_2023 9_09_16 PM.ed577052d23ba64835d2.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_41_45 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_41_45 AM.6a5eca784b1c1e0b48cf.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_36_24 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_36_24 AM.750a4e7f9530e4f9a37c.png",
+    "static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_16 PM.png": "/static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_16 PM.5342607172a1b90d0ab5.png",
     "static/media/React App - Opera 18_10_2023 8_25_17 PM.png": "/static/media/React App - Opera 18_10_2023 8_25_17 PM.d48d65527a71f564ef32.png",
     "static/media/React App - Opera 18_10_2023 8_25_10 PM.png": "/static/media/React App - Opera 18_10_2023 8_25_10 PM.3f3f4edec44f3de80799.png",
+    "static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_53 PM.png": "/static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_53 PM.de9770df4b7ab1a72847.png",
+    "static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_43 PM.png": "/static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_43 PM.468260aa3f30435a12a9.png",
+    "static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_09 PM.png": "/static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_09 PM.d956eeaee088ff267d5e.png",
     "static/media/Klupea - Opera 31_05_2023 11_57_43 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_57_43 PM.a3dd9e795710eae7702e.png",
     "static/media/Klupea - Opera 31_05_2023 11_58_19 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_58_19 PM.6ddc6e12be6468590ee4.png",
     "static/media/EvenToGo - Opera 28_04_2023 1_26_14 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 1_26_14 AM.1057901f5d9864e62a9e.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_44_37 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_44_37 AM.b3c4d02fa127393d9cea.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_44_33 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_44_33 AM.17b8bcb53740477b1f50.png",
     "static/media/Klupea - Opera 31_05_2023 11_58_30 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_58_30 PM.77bdd19ee26d3870c967.png",
+    "static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_58_48 PM.png": "/static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_58_48 PM.e60d2a74a7beea9f1d19.png",
     "static/media/Klupea - Opera 31_05_2023 11_58_42 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_58_42 PM.0ed0b377761f43167db0.png",
     "static/media/EN cv, Youssef Bedoui.pdf": "/static/media/EN cv, Youssef Bedoui.4914ea060034f62769a7.pdf",
     "static/media/EvenToGo - Opera 28_04_2023 1_54_22 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 1_54_22 AM.3e2b732ce3dce476d5a6.png",
@@ -36,6 +41,7 @@
     "static/media/Klupea - Opera 01_06_2023 12_00_32 AM.png": "/static/media/Klupea - Opera 01_06_2023 12_00_32 AM.fc4c453adb61e0899daf.png",
     "static/media/Klupea - Opera 31_05_2023 11_57_33 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_57_33 PM.b041a5884296916314db.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_44_25 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_44_25 AM.aa58362cb13650f992bf.png",
+    "static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 10_11_43 PM.png": "/static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 10_11_43 PM.af11e4127430a2c42c73.png",
     "static/media/EvenToGo - Opera 28_04_2023 1_54_29 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 1_54_29 AM.592387aaa39a5115c861.png",
     "static/media/React App - Opera 09_05_2023 12_42_57 AM.png": "/static/media/React App - Opera 09_05_2023 12_42_57 AM.d59ecf4579414b1565d7.png",
     "static/media/EvenToGo - Opera 28_04_2023 1_51_53 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 1_51_53 AM.9747186274d784d32311.png",
@@ -60,11 +66,11 @@
     "static/media/services-3.webp": "/static/media/services-3.94032383cf2b607e5bff.webp",
     "static/media/services-1.webp": "/static/media/services-1.c7b62c977d66365859a7.webp",
     "index.html": "/index.html",
-    "main.04730331.css.map": "/static/css/main.04730331.css.map",
-    "main.8bfd152b.js.map": "/static/js/main.8bfd152b.js.map"
+    "main.dba8ce07.css.map": "/static/css/main.dba8ce07.css.map",
+    "main.e3637474.js.map": "/static/js/main.e3637474.js.map"
   },
   "entrypoints": [
-    "static/css/main.04730331.css",
-    "static/js/main.8bfd152b.js"
+    "static/css/main.dba8ce07.css",
+    "static/js/main.e3637474.js"
   ]
 }
