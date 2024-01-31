@@ -4,7 +4,7 @@ import Klupea_img from "../../../assets/images/portfolio/klupea/Klupea_main.png"
 import EvenToGo_img from "../../../assets/images/portfolio/Eventogo/EvenToGo - Opera 28_04_2023 12_40_49 AM.png";
 import MovieLights_img from "../../../assets/images/portfolio/MovieLights/React App - Opera 14_05_2023 9_09_16 PM.png";
 import RainyForecast_img from "../../../assets/images/portfolio/RainyForecast/React App - Opera 18_10_2023 8_25_17 PM.png";
-import Al_Aajel_img from "../../../assets/images/portfolio/Al_Aajel_News/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_58_48 PM.png";
+import Al_Aajel_img from "../../../assets/images/portfolio/Al_Aajel_News/Al Aajel News - Opera 31_01_2024 5_39_50 PM.png";
 import ProjectDetailModal from "./projectDetail/projectDetail";
 
 function Portfolio() {
