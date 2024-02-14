@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dba8ce07.css",
-    "main.js": "/static/js/main.fbf61774.js",
+    "main.js": "/static/js/main.cf26a783.js",
     "static/media/profile_photo.png": "/static/media/profile_photo.1598651cc1abe52e6fee.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.1a27bc4bb1b1d89e2378.png",
     "static/media/React App - Opera 07_05_2023 2_32_25 AM.png": "/static/media/React App - Opera 07_05_2023 2_32_25 AM.1b60b3b1b17b12fdfacd.png",
@@ -20,6 +20,7 @@
     "static/media/React App - Opera 14_05_2023 9_10_48 PM.png": "/static/media/React App - Opera 14_05_2023 9_10_48 PM.854d3f1e3028d29141e7.png",
     "static/media/React App - Opera 14_05_2023 9_09_16 PM.png": "/static/media/React App - Opera 14_05_2023 9_09_16 PM.ed577052d23ba64835d2.png",
     "static/media/Al Aajel News - Opera 31_01_2024 5_39_29 PM.png": "/static/media/Al Aajel News - Opera 31_01_2024 5_39_29 PM.c5fc87ebb741cbae84a0.png",
+    "static/media/Phone Area -13_02_2024 6_42_13 PM.png": "/static/media/Phone Area -13_02_2024 6_42_13 PM.f46bca51b4e8fd48ad95.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_41_45 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_41_45 AM.6a5eca784b1c1e0b48cf.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_36_24 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_36_24 AM.750a4e7f9530e4f9a37c.png",
     "static/media/Al Aajel News - Opera 31_01_2024 5_44_36 PM.png": "/static/media/Al Aajel News - Opera 31_01_2024 5_44_36 PM.583ce270e903afdacfa4.png",
@@ -27,14 +28,20 @@
     "static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_43 PM.png": "/static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_43 PM.468260aa3f30435a12a9.png",
     "static/media/Rainy Forecast - Opera 11_02_2024 1_47_30 PM.png": "/static/media/Rainy Forecast - Opera 11_02_2024 1_47_30 PM.a3bad2a2b90ca8662871.png",
     "static/media/Rainy Forecast - Opera 11_02_2024 1_47_16 PM.png": "/static/media/Rainy Forecast - Opera 11_02_2024 1_47_16 PM.a65df41714b25f41c08c.png",
+    "static/media/Phone Area - 13_02_2024 6_42_25 PM.png": "/static/media/Phone Area - 13_02_2024 6_42_25 PM.1bb7491ca4d16b3bca16.png",
+    "static/media/Phone Area - 13_02_2024 7_04_35 PM.png": "/static/media/Phone Area - 13_02_2024 7_04_35 PM.acfaf71d530fe92554d9.png",
     "static/media/Al Aajel News - Opera 31_01_2024 5_39_50 PM.png": "/static/media/Al Aajel News - Opera 31_01_2024 5_39_50 PM.447bd2c7491bf1f945a2.png",
+    "static/media/Phone Area - 13_02_2024 7_03_57 PM.png": "/static/media/Phone Area - 13_02_2024 7_03_57 PM.1765d9b293171097a0c5.png",
+    "static/media/Phone Area - 13_02_2024 7_04_22 PM.png": "/static/media/Phone Area - 13_02_2024 7_04_22 PM.741f6e2df809bf7dc4eb.png",
     "static/media/Klupea - Opera 31_05_2023 11_57_43 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_57_43 PM.a3dd9e795710eae7702e.png",
     "static/media/Klupea - Opera 31_05_2023 11_58_19 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_58_19 PM.6ddc6e12be6468590ee4.png",
+    "static/media/Phone Area -13_02_2024 6_42_32 PM.png": "/static/media/Phone Area -13_02_2024 6_42_32 PM.a299e6e15c0404393e8b.png",
     "static/media/EvenToGo - Opera 28_04_2023 1_26_14 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 1_26_14 AM.1057901f5d9864e62a9e.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_44_37 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_44_37 AM.b3c4d02fa127393d9cea.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_44_33 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_44_33 AM.17b8bcb53740477b1f50.png",
     "static/media/Al Aajel News - Opera 31_01_2024 5_44_42 PM.png": "/static/media/Al Aajel News - Opera 31_01_2024 5_44_42 PM.8504c64a898cd6517982.png",
     "static/media/Klupea - Opera 31_05_2023 11_58_30 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_58_30 PM.77bdd19ee26d3870c967.png",
+    "static/media/Phone Area -13_02_2024 7_04_12 PM.png": "/static/media/Phone Area -13_02_2024 7_04_12 PM.fd12ad61602bfad8211d.png",
     "static/media/Klupea - Opera 31_05_2023 11_58_42 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_58_42 PM.0ed0b377761f43167db0.png",
     "static/media/EN cv, Youssef Bedoui.pdf": "/static/media/EN cv, Youssef Bedoui.4914ea060034f62769a7.pdf",
     "static/media/EvenToGo - Opera 28_04_2023 1_54_22 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 1_54_22 AM.3e2b732ce3dce476d5a6.png",
@@ -44,7 +51,9 @@
     "static/media/Klupea - Opera 31_05_2023 11_57_33 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_57_33 PM.b041a5884296916314db.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_44_25 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_44_25 AM.aa58362cb13650f992bf.png",
     "static/media/EvenToGo - Opera 28_04_2023 1_54_29 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 1_54_29 AM.592387aaa39a5115c861.png",
+    "static/media/Phone Area - 13_02_2024 7_04_29 PM.png": "/static/media/Phone Area - 13_02_2024 7_04_29 PM.8e79f72e273afb3d77bc.png",
     "static/media/React App - Opera 09_05_2023 12_42_57 AM.png": "/static/media/React App - Opera 09_05_2023 12_42_57 AM.d59ecf4579414b1565d7.png",
+    "static/media/Phone Area -13_02_2024 7_05_18 PM.png": "/static/media/Phone Area -13_02_2024 7_05_18 PM.c2dbb51cdd13cda1e798.png",
     "static/media/EvenToGo - Opera 28_04_2023 1_51_53 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 1_51_53 AM.9747186274d784d32311.png",
     "static/media/EvenToGo - Opera 28_04_2023 1_56_06 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 1_56_06 AM.ac0a3fea7d6aa804adea.png",
     "static/media/Klupea - Opera 31_05_2023 11_59_19 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_59_19 PM.4a420a956580aadd13ca.png",
@@ -55,8 +64,10 @@
     "static/media/EvenToGo - Opera 28_04_2023 1_54_09 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 1_54_09 AM.ae9d0d700bd7412519ce.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_43_14 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_43_14 AM.03f73cde388fcec2a448.png",
     "static/media/Klupea - Opera 31_05_2023 11_59_04 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_59_04 PM.b8c6154ba6ac6539edff.png",
+    "static/media/Phone Area -13_02_2024 7_05_01 PM.png": "/static/media/Phone Area -13_02_2024 7_05_01 PM.4674d7e06b18bde4cc45.png",
     "static/media/Klupea - Opera 31_05_2023 11_59_12 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_59_12 PM.9582bd70540d9c9a3d16.png",
     "static/media/Klupea - Opera 31_05_2023 11_58_54 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_58_54 PM.acd2377f26e51ebb5439.png",
+    "static/media/Phone Area - 13_02_2024 7_04_53 PM.png": "/static/media/Phone Area - 13_02_2024 7_04_53 PM.d3954b112fd883e48171.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_42_26 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_42_26 AM.7cfe71f5eaed62bf061c.png",
     "static/media/Klupea - Opera 31_05_2023 11_58_47 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_58_47 PM.6e25c93a1b2c4208f3e1.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_43_07 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_43_07 AM.c6f3856692d3386a7a9b.png",
@@ -68,10 +79,10 @@
     "static/media/services-1.webp": "/static/media/services-1.c7b62c977d66365859a7.webp",
     "index.html": "/index.html",
     "main.dba8ce07.css.map": "/static/css/main.dba8ce07.css.map",
-    "main.fbf61774.js.map": "/static/js/main.fbf61774.js.map"
+    "main.cf26a783.js.map": "/static/js/main.cf26a783.js.map"
   },
   "entrypoints": [
     "static/css/main.dba8ce07.css",
-    "static/js/main.fbf61774.js"
+    "static/js/main.cf26a783.js"
   ]
 }
