@@ -5,6 +5,7 @@ import EvenToGo_img from "../../../assets/images/portfolio/Eventogo/EvenToGo - O
 import MovieLights_img from "../../../assets/images/portfolio/MovieLights/React App - Opera 14_05_2023 9_09_16 PM.png";
 import RainyForecast_img from "../../../assets/images/portfolio/RainyForecast/Rainy Forecast - Opera 11_02_2024 1_47_30 PM.png";
 import Al_Aajel_img from "../../../assets/images/portfolio/Al_Aajel_News/Al Aajel News - Opera 31_01_2024 5_39_50 PM.png";
+import PhoneArea_img from "../../../assets/images/portfolio/Phone Area/Phone Area -13_02_2024 6_42_13 PM.png";
 import ProjectDetailModal from "./projectDetail/projectDetail";
 
 function Portfolio() {
@@ -92,6 +93,22 @@ function Portfolio() {
             <div className="project_details">
               <div className="project_name">Al Aajel News</div>
               <div className="project_type">Website</div>
+            </div>
+          </div>
+          <div
+            className="project_item"
+            onClick={() => {
+              openModal(5);
+            }}
+          >
+            <img
+              src={PhoneArea_img}
+              alt="Phone Area"
+              className="project_image"
+            />
+            <div className="project_details">
+              <div className="project_name">Phone Area</div>
+              <div className="project_type">Website (blogging)</div>
             </div>
           </div>
         </div>

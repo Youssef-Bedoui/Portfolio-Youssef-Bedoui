@@ -294,6 +294,63 @@
           "url": "Al_Aajel_News/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_43 PM.png"
         }
       ]
+    },
+    {
+      "id": 6,
+      "name": "Phone Area | Tech Blogging Website",
+      "type": "Solo Work",
+      "date": "October, 2023 - January, 2024",
+      "skills": "HTML, SCSS, JS, React Js, React-Redux, node js, mongodb",
+      "description": "Phone Area: Your website where you can get the latest news about Technology, smartphones, and discover the best deals in the market !",
+      "github_code1": "https://github.com/Youssef-Bedoui/Phone_Area_Frontend",
+      "github_code2": "https://github.com/Youssef-Bedoui/Phone_Area_Backend",
+      "website": "https://youssef-bedoui.github.io/Phone_Area_Frontend",
+      "images": [
+        {
+          "id": 1,
+          "url": "Phone Area/Phone Area -13_02_2024 6_42_13 PM.png"
+        },
+        {
+          "id": 2,
+          "url": "Phone Area/Phone Area - 13_02_2024 6_42_25 PM.png"
+        },
+        {
+          "id": 3,
+          "url": "Phone Area/Phone Area -13_02_2024 6_42_32 PM.png"
+        },
+        {
+          "id": 4,
+          "url": "Phone Area/Phone Area - 13_02_2024 7_03_57 PM.png"
+        },
+        {
+          "id": 5,
+          "url": "Phone Area/Phone Area -13_02_2024 7_04_12 PM.png"
+        },
+        {
+          "id": 6,
+          "url": "Phone Area/Phone Area - 13_02_2024 7_04_22 PM.png"
+        },
+        {
+          "id": 7,
+          "url": "Phone Area/Phone Area - 13_02_2024 7_04_29 PM.png"
+        },
+        {
+          "id": 8,
+          "url": "Phone Area/Phone Area - 13_02_2024 7_04_35 PM.png"
+        },
+        {
+          "id": 9,
+          "url": "Phone Area/Phone Area - 13_02_2024 7_04_53 PM.png"
+        },
+        {
+          "id": 10,
+          "url": "Phone Area/Phone Area -13_02_2024 7_05_01 PM.png"
+        },
+        {
+          "id": 11,
+          "url": "Phone Area/Phone Area -13_02_2024 7_05_18 PM.png"
+        }
+      ]
     }
   ]
 }
