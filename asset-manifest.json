@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dba8ce07.css",
-    "main.js": "/static/js/main.cf26a783.js",
+    "main.js": "/static/js/main.5bca15a1.js",
     "static/media/profile_photo.png": "/static/media/profile_photo.1598651cc1abe52e6fee.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.1a27bc4bb1b1d89e2378.png",
     "static/media/React App - Opera 07_05_2023 2_32_25 AM.png": "/static/media/React App - Opera 07_05_2023 2_32_25 AM.1b60b3b1b17b12fdfacd.png",
@@ -74,15 +74,15 @@
     "static/media/Klupea - Opera 31_05_2023 11_59_35 PM.png": "/static/media/Klupea - Opera 31_05_2023 11_59_35 PM.67f582a1e8d83baf7161.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_43_24 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_43_24 AM.5078c787f245b77ef3ec.png",
     "static/media/services-2.webp": "/static/media/services-2.623f7926cb511a5850c0.webp",
-    "static/media/portfolio_logo.png": "/static/media/portfolio_logo.5ebb492c389e84ed3c42.png",
     "static/media/services-3.webp": "/static/media/services-3.94032383cf2b607e5bff.webp",
+    "static/media/portfolio_logo.png": "/static/media/portfolio_logo.78fe5064e5c9dd50f676.png",
     "static/media/services-1.webp": "/static/media/services-1.c7b62c977d66365859a7.webp",
     "index.html": "/index.html",
     "main.dba8ce07.css.map": "/static/css/main.dba8ce07.css.map",
-    "main.cf26a783.js.map": "/static/js/main.cf26a783.js.map"
+    "main.5bca15a1.js.map": "/static/js/main.5bca15a1.js.map"
   },
   "entrypoints": [
     "static/css/main.dba8ce07.css",
-    "static/js/main.cf26a783.js"
+    "static/js/main.5bca15a1.js"
   ]
 }
