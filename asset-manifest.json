@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dba8ce07.css",
-    "main.js": "/static/js/main.5bca15a1.js",
+    "main.js": "/static/js/main.460649cc.js",
     "static/media/profile_photo.png": "/static/media/profile_photo.1598651cc1abe52e6fee.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.1a27bc4bb1b1d89e2378.png",
     "static/media/React App - Opera 07_05_2023 2_32_25 AM.png": "/static/media/React App - Opera 07_05_2023 2_32_25 AM.1b60b3b1b17b12fdfacd.png",
@@ -9,10 +9,10 @@
     "static/media/EvenToGo - Opera 28_04_2023 12_42_02 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_42_02 AM.bfde494a8317647280db.png",
     "static/media/React App - Opera 07_05_2023 2_32_16 AM.png": "/static/media/React App - Opera 07_05_2023 2_32_16 AM.0d243896f4f77de3783f.png",
     "static/media/Klupea_main.png": "/static/media/Klupea_main.6e519497d91d8a8ef9d0.png",
-    "static/media/Rainy Forecast - Opera 11_02_2024 1_47_54 PM.png": "/static/media/Rainy Forecast - Opera 11_02_2024 1_47_54 PM.13a230ef2715b941c380.png",
     "static/media/React App - Opera 14_05_2023 9_10_21 PM.png": "/static/media/React App - Opera 14_05_2023 9_10_21 PM.cb10722d7da2069ef0ce.png",
     "static/media/React App - Opera 14_05_2023 9_09_29 PM.png": "/static/media/React App - Opera 14_05_2023 9_09_29 PM.15d3fe0c6a16fdb8f720.png",
     "static/media/React App - Opera 14_05_2023 9_10_41 PM.png": "/static/media/React App - Opera 14_05_2023 9_10_41 PM.ff8f428fdd93e7a7d58c.png",
+    "static/media/Rainy Forecast - Opera 03_03_2024 5_34_43 PM.png": "/static/media/Rainy Forecast - Opera 03_03_2024 5_34_43 PM.b1334de37bc26f75d4a6.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_36_41 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_36_41 AM.89d22d1980224abf1aaa.png",
     "static/media/React App - Opera 14_05_2023 9_10_01 PM.png": "/static/media/React App - Opera 14_05_2023 9_10_01 PM.3792e897118c929ac9fe.png",
     "static/media/Klupea - Opera 01_06_2023 12_13_35 AM.png": "/static/media/Klupea - Opera 01_06_2023 12_13_35 AM.fbb07f8c59ceebcc624b.png",
@@ -25,9 +25,9 @@
     "static/media/EvenToGo - Opera 28_04_2023 12_36_24 AM.png": "/static/media/EvenToGo - Opera 28_04_2023 12_36_24 AM.750a4e7f9530e4f9a37c.png",
     "static/media/Al Aajel News - Opera 31_01_2024 5_44_36 PM.png": "/static/media/Al Aajel News - Opera 31_01_2024 5_44_36 PM.583ce270e903afdacfa4.png",
     "static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_53 PM.png": "/static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_53 PM.de9770df4b7ab1a72847.png",
+    "static/media/Rainy Forecast - Opera 03_03_2024 5_34_30 PM.png": "/static/media/Rainy Forecast - Opera 03_03_2024 5_34_30 PM.b8e40fe28f7088040fb5.png",
+    "static/media/Rainy Forecast - Opera 03_03_2024 5_34_20 PM.png": "/static/media/Rainy Forecast - Opera 03_03_2024 5_34_20 PM.02590cf72e05b8b43b3d.png",
     "static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_43 PM.png": "/static/media/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_43 PM.468260aa3f30435a12a9.png",
-    "static/media/Rainy Forecast - Opera 11_02_2024 1_47_30 PM.png": "/static/media/Rainy Forecast - Opera 11_02_2024 1_47_30 PM.a3bad2a2b90ca8662871.png",
-    "static/media/Rainy Forecast - Opera 11_02_2024 1_47_16 PM.png": "/static/media/Rainy Forecast - Opera 11_02_2024 1_47_16 PM.a65df41714b25f41c08c.png",
     "static/media/Phone Area - 13_02_2024 6_42_25 PM.png": "/static/media/Phone Area - 13_02_2024 6_42_25 PM.1bb7491ca4d16b3bca16.png",
     "static/media/Phone Area - 13_02_2024 7_04_35 PM.png": "/static/media/Phone Area - 13_02_2024 7_04_35 PM.acfaf71d530fe92554d9.png",
     "static/media/Al Aajel News - Opera 31_01_2024 5_39_50 PM.png": "/static/media/Al Aajel News - Opera 31_01_2024 5_39_50 PM.447bd2c7491bf1f945a2.png",
@@ -79,10 +79,10 @@
     "static/media/services-1.webp": "/static/media/services-1.c7b62c977d66365859a7.webp",
     "index.html": "/index.html",
     "main.dba8ce07.css.map": "/static/css/main.dba8ce07.css.map",
-    "main.5bca15a1.js.map": "/static/js/main.5bca15a1.js.map"
+    "main.460649cc.js.map": "/static/js/main.460649cc.js.map"
   },
   "entrypoints": [
     "static/css/main.dba8ce07.css",
-    "static/js/main.5bca15a1.js"
+    "static/js/main.460649cc.js"
   ]
 }
