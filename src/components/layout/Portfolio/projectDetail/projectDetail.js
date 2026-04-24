@@ -31,7 +31,6 @@ function ProjectDetailModal({
             {projectData.projects[projectIndex].images.map(
               (slideImage, index) => (
                 <div className="image_cont">
-                  {console.log(slideImage.url)}
                 <img
                   src={portfolioImages(`./${slideImage.url}`)}
                   alt={slideImage.url}
