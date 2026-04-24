@@ -5,6 +5,12 @@ import { Slide } from "react-slideshow-image";
 import "react-slideshow-image/dist/styles.css";
 import projectData from "../../../../constants/portfolioData.json";
 
+const portfolioImages = require.context(
+  "../../../../assets/images/portfolio/",
+  true,
+  /\.(png|jpe?g|svg)$/
+);
+
 function ProjectDetailModal({
   modal,
   closeModal,
@@ -26,11 +32,11 @@ function ProjectDetailModal({
               (slideImage, index) => (
                 <div className="image_cont">
                   {console.log(slideImage.url)}
-                  <img
-                    src={require(`../../../../assets/images/portfolio/${slideImage.url}`)}
-                    alt={slideImage.url}
-                    className="image_style"
-                  />
+                <img
+                  src={portfolioImages(`./${slideImage.url}`)}
+                  alt={slideImage.url}
+                  className="image_style"
+                />
                 </div>
               )
             )}
