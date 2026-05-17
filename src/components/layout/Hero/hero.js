@@ -17,11 +17,10 @@ function Hero() {
         <span className="intro_info">
           I'm <span className="intro_name">Youssef Bedoui</span>
           <br />
-          Web Developer
+          Senior Frontend Developer
         </span>
         <p className="intro_content">
-          I am an aspiring junior web developer dedicated to crafting responsive
-          and engaging websites.
+          Experienced frontend developer specializing in React, Next.js, and TypeScript. Building enterprise-grade applications, e-commerce platforms, and complex dashboards with modern web technologies.
         </p>
         <div className="intro_btns">
           <Link

@@ -2,354 +2,240 @@
   "projects": [
     {
       "id": 1,
-      "name": "KLUPEA | E-COMMERCE-APP",
-      "type": "Solo Work",
-      "date": "Octobre, 2022 - February, 2023",
-      "skills": "HTML, CSS, JS, React Js, Redux, Bootstrap, Matrial UI, Express Js, mySQL",
-      "description": "Klupea is an e-commerce web application built with React, It's a simple and user-friendly online clothing store that offers a wide variety of apparel for all genders and ages. The website's design is visually appealing and provides a seamless shopping experience. With easy navigation and secure checkout process. Klupea is an excellent choice for anyone looking to purchase high-quality clothing online. As a React developer, I was responsible for creating and maintaining the front-end of the website, ensuring that it was both functional and aesthetically pleasing.",
-      "github_code1": "https://github.com/Youssef-Bedoui/Klupea-with-Redux",
-      "github_code2": "https://github.com/Youssef-Bedoui/Klupea-with-redux-backend",
+      "name": "MAGAZIN SAT | E-COMMERCE & REPAIR MANAGEMENT",
+      "type": "Professional Work - Atomic IT",
+      "date": "Mars 2024 - Present",
+      "skills": "Next.js 14, React, TypeScript, Redux Toolkit, Tailwind CSS, React Hook Form, Socket.IO, Font Awesome",
+      "description": "A comprehensive multi-application e-commerce and repair shop management system. Built three interconnected applications: Admin Panel for complete back-office management (stock, sales, POS, repairs, employees, suppliers, treasury), Customer-facing E-commerce store with full shopping experience, and Atelier Panel for repair shop technicians. Features include real-time notifications, role-based permissions, multi-tier pricing, newsletter drag-and-drop editor, Google OAuth, product reviews, and wholesale marchand management.",
       "images": [
-        {
-          "id": 1,
-          "url": "klupea/Klupea_main.png"
-        },
-        {
-          "id": 2,
-          "url": "klupea/2023-03-02 (4).png"
-        },
-        {
-          "id": 3,
-          "url": "klupea/Klupea - Opera 01_06_2023 12_00_32 AM.png"
-        },
-        {
-          "id": 4,
-          "url": "klupea/Klupea - Opera 01_06_2023 12_00_42 AM.png"
-        },
-        {
-          "id": 5,
-          "url": "klupea/Klupea - Opera 31_05_2023 11_57_33 PM.png"
-        },
-        {
-          "id": 6,
-          "url": "klupea/Klupea - Opera 31_05_2023 11_57_43 PM.png"
-        },
-        {
-          "id": 7,
-          "url": "klupea/Klupea - Opera 31_05_2023 11_58_19 PM.png"
-        },
-        {
-          "id": 8,
-          "url": "klupea/Klupea - Opera 31_05_2023 11_58_30 PM.png"
-        },
-        {
-          "id": 9,
-          "url": "klupea/Klupea - Opera 31_05_2023 11_58_42 PM.png"
-        },
-        {
-          "id": 10,
-          "url": "klupea/Klupea - Opera 31_05_2023 11_58_47 PM.png"
-        },
-        {
-          "id": 11,
-          "url": "klupea/Klupea - Opera 31_05_2023 11_58_54 PM.png"
-        },
-        {
-          "id": 12,
-          "url": "klupea/Klupea - Opera 31_05_2023 11_59_04 PM.png"
-        },
-        {
-          "id": 13,
-          "url": "klupea/Klupea - Opera 31_05_2023 11_59_12 PM.png"
-        },
-        {
-          "id": 14,
-          "url": "klupea/Klupea - Opera 31_05_2023 11_59_19 PM.png"
-        },
-        {
-          "id": 15,
-          "url": "klupea/Klupea - Opera 31_05_2023 11_59_35 PM.png"
-        }
+        { "id": 1, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_34_54 PM.png" },
+        { "id": 2, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_35_57 PM.png" },
+        { "id": 3, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_35_37 PM.png" },
+        { "id": 4, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_35_27 PM.png" },
+        { "id": 5, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_35_22 PM.png" },
+        { "id": 6, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_35_08 PM.png" },
+        { "id": 7, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_35_02 PM.png" },
+        { "id": 8, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_32_59 PM.png" },
+        { "id": 9, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_32_40 PM.png" },
+        { "id": 10, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_31_58 PM.png" },
+        { "id": 11, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_31_26 PM.png" },
+        { "id": 12, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_31_09 PM.png" },
+        { "id": 13, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_30_59 PM.png" },
+        { "id": 14, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_30_29 PM.png" },
+        { "id": 15, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_30_20 PM.png" },
+        { "id": 16, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_30_14 PM.png" },
+        { "id": 17, "url": "magazin-sat/Magasin SAT - Admin Panel - Google Chrome 17_05_2026 3_28_06 PM.png" }
       ]
     },
     {
       "id": 2,
-      "name": "EVENTOGO | E-COMMERCE-APP",
-      "type": "Solo Work",
-      "date": "February, 2023 - April, 2023",
-      "skills": "HTML, CSS, JS, Vue Js, Bootstrap, Express Js, mySQL",
-      "description": "Eventogo is a website that help peoples to simply check and search for the nearest events that they can attend.",
-      "github_code1": "https://github.com/Youssef-Bedoui/Klupea-E-commerce-app.git",
-      "github_code2": "https://github.com/Youssef-Bedoui/Klupea-back.git",
+      "name": "ATOMIC ERP | TECH SOCIETY MANAGEMENT",
+      "type": "Professional Work - Atomic IT",
+      "date": "Mars 2024 - Present",
+      "skills": "React, Redux Toolkit, Material-UI, React Router, JWT Authentication, Chart.js",
+      "description": "A complete ERP system for managing tech society operations. Features include project management, task tracking with status management, real-time messaging between team members, attendance tracking with check-in/check-out, notification system, document management, and role-based access control (admin, boss, employer). Built with a clean, professional UI using Material-UI components.",
       "images": [
-        {
-          "id": 1,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_40_49 AM.png"
-        },
-        {
-          "id": 2,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_36_24 AM.png"
-        },
-        {
-          "id": 3,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_36_41 AM.png"
-        },
-        {
-          "id": 4,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_41_45 AM.png"
-        },
-        {
-          "id": 5,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_42_02 AM.png"
-        },
-        {
-          "id": 6,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_42_26 AM.png"
-        },
-        {
-          "id": 7,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_43_07 AM.png"
-        },
-        {
-          "id": 8,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_43_14 AM.png"
-        },
-        {
-          "id": 9,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_43_24 AM.png"
-        },
-        {
-          "id": 10,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_44_25 AM.png"
-        },
-        {
-          "id": 11,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_44_33 AM.png"
-        },
-        {
-          "id": 12,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_44_37 AM.png"
-        },
-        {
-          "id": 13,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_26_14 AM.png"
-        },
-        {
-          "id": 14,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_51_32 AM.png"
-        },
-        {
-          "id": 15,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_51_53 AM.png"
-        },
-        {
-          "id": 16,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_53_32 AM.png"
-        },
-        {
-          "id": 17,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_53_32 AM.png"
-        },
-        {
-          "id": 18,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_53_32 AM.png"
-        },
-        {
-          "id": 19,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_53_41 AM.png"
-        },
-        {
-          "id": 20,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_53_57 AM.png"
-        },
-        {
-          "id": 21,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_54_02 AM.png"
-        },
-        {
-          "id": 22,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_54_09 AM.png"
-        },
-        {
-          "id": 23,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_54_22 AM.png"
-        },
-        {
-          "id": 24,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_54_29 AM.png"
-        },
-        {
-          "id": 25,
-          "url": "Eventogo/EvenToGo - Opera 28_04_2023 1_56_06 AM.png"
-        }
+        { "id": 1, "url": "atomic-erp/ATOMIC IT ERP - Google Chrome 17_05_2026 5_50_34 PM.png" },
+        { "id": 2, "url": "atomic-erp/ATOMIC IT ERP - Google Chrome 17_05_2026 6_30_03 PM.png" },
+        { "id": 3, "url": "atomic-erp/ATOMIC IT ERP - Google Chrome 17_05_2026 6_28_00 PM.png" },
+        { "id": 4, "url": "atomic-erp/ATOMIC IT ERP - Google Chrome 17_05_2026 6_27_54 PM.png" },
+        { "id": 5, "url": "atomic-erp/ATOMIC IT ERP - Google Chrome 17_05_2026 6_27_50 PM.png" },
+        { "id": 6, "url": "atomic-erp/ATOMIC IT ERP - Google Chrome 17_05_2026 6_27_45 PM.png" },
+        { "id": 7, "url": "atomic-erp/ATOMIC IT ERP et 19 pages de plus - Personnel – Microsoft Edge 17_05_2026 6_31_09 PM.png" },
+        { "id": 8, "url": "atomic-erp/ATOMIC IT ERP et 19 pages de plus - Personnel – Microsoft Edge 17_05_2026 6_30_41 PM.png" },
+        { "id": 9, "url": "atomic-erp/ATOMIC IT ERP et 19 pages de plus - Personnel – Microsoft Edge 17_05_2026 6_30_38 PM.png" },
+        { "id": 10, "url": "atomic-erp/ATOMIC IT ERP et 19 pages de plus - Personnel – Microsoft Edge 17_05_2026 6_30_23 PM.png" },
+        { "id": 11, "url": "atomic-erp/ATOMIC IT ERP et 19 pages de plus - Personnel – Microsoft Edge 17_05_2026 6_27_02 PM.png" },
+        { "id": 12, "url": "atomic-erp/ATOMIC IT ERP - Google Chrome 17_05_2026 6_26_15 PM.png" },
+        { "id": 13, "url": "atomic-erp/ATOMIC IT ERP - Google Chrome 17_05_2026 6_26_07 PM.png" },
+        { "id": 14, "url": "atomic-erp/ATOMIC IT ERP - Google Chrome 17_05_2026 6_26_02 PM.png" },
+        { "id": 15, "url": "atomic-erp/ATOMIC IT ERP - Google Chrome 17_05_2026 6_25_57 PM.png" },
+        { "id": 16, "url": "atomic-erp/ATOMIC IT ERP - Google Chrome 17_05_2026 6_25_16 PM.png" },
+        { "id": 17, "url": "atomic-erp/ATOMIC IT ERP et 19 pages de plus - Personnel – Microsoft Edge 17_05_2026 6_22_59 PM.png" },
+        { "id": 18, "url": "atomic-erp/ATOMIC IT ERP et 19 pages de plus - Personnel – Microsoft Edge 17_05_2026 6_21_11 PM.png" },
+        { "id": 19, "url": "atomic-erp/ATOMIC IT ERP - Google Chrome 17_05_2026 6_09_43 PM.png" }
       ]
     },
     {
       "id": 3,
-      "name": "MOVIELIGHTS | WEB APP",
-      "type": "Solo Work",
-      "date": "April, 2023 - May, 2023",
-      "skills": "HTML, CSS, JS, React JS + redux, Material UI, framer-motion, The Movie Database API(TMDB)",
-      "description": "Introducing MovieLights - the ultimate destination for movie enthusiasts! Our website offers a comprehensive platform to search for movies and access key details, including the storyline, casting crew, ratings, and trailers. With MovieLights, you can stay up-to-date with the latest releases and make informed decisions on what to watch next. Say goodbye to the hassle of endlessly scrolling through streaming platforms - let MovieLights guide your movie journey with ease and efficiency.",
-      "github_code1": "https://github.com/Youssef-Bedoui/MovieLights-Web-app",
-      "website": "https://youssef-bedoui.github.io/MovieLights-Web-app",
+      "name": "PHARMA NORM | PARAPHARMACY E-COMMERCE",
+      "type": "Professional Work - Atomic IT",
+      "date": "Mars 2024 - Present",
+      "skills": "Next.js 15, React, TypeScript, Tailwind CSS, shadcn/ui, React Hook Form, Zod, Recharts, Socket.IO",
+      "description": "A modern e-commerce platform for a parapharmacy built with Next.js 15 App Router and TypeScript. Features include product catalog with advanced filtering, shopping cart and checkout flow, customer account management, admin dashboard with KPIs, product/category/order management, inventory tracking, promotional codes, blog/articles management, real-time notifications, PDF/Excel report exports, and responsive design with dark mode support.",
       "images": [
-        {
-          "id": 1,
-          "url": "MovieLights/React App - Opera 14_05_2023 9_09_16 PM.png"
-        },
-        {
-          "id": 2,
-          "url": "MovieLights/React App - Opera 07_05_2023 2_32_03 AM.png"
-        },
-        {
-          "id": 3,
-          "url": "MovieLights/React App - Opera 07_05_2023 2_32_16 AM.png"
-        },
-        {
-          "id": 4,
-          "url": "MovieLights/React App - Opera 07_05_2023 2_32_25 AM.png"
-        },
-        {
-          "id": 5,
-          "url": "MovieLights/React App - Opera 09_05_2023 12_42_57 AM.png"
-        },
-        {
-          "id": 6,
-          "url": "MovieLights/React App - Opera 14_05_2023 9_09_29 PM.png"
-        },
-        {
-          "id": 7,
-          "url": "MovieLights/React App - Opera 14_05_2023 9_10_01 PM.png"
-        },
-        {
-          "id": 8,
-          "url": "MovieLights/React App - Opera 14_05_2023 9_10_21 PM.png"
-        },
-        {
-          "id": 9,
-          "url": "MovieLights/React App - Opera 14_05_2023 9_10_41 PM.png"
-        },
-        {
-          "id": 10,
-          "url": "MovieLights/React App - Opera 14_05_2023 9_10_48 PM.png"
-        }
+        { "id": 1, "url": "pharma-norm/Magasin SAT - E-commerce - Google Chrome 17_05_2026 4_29_13 PM.png" },
+        { "id": 2, "url": "pharma-norm/Magasin SAT - E-commerce - Google Chrome 17_05_2026 4_29_32 PM.png" },
+        { "id": 3, "url": "pharma-norm/Magasin SAT - E-commerce - Google Chrome 17_05_2026 4_29_42 PM.png" },
+        { "id": 4, "url": "pharma-norm/Magasin SAT - E-commerce - Google Chrome 17_05_2026 4_30_02 PM.png" },
+        { "id": 5, "url": "pharma-norm/Magasin SAT - E-commerce - Google Chrome 17_05_2026 4_30_21 PM.png" },
+        { "id": 6, "url": "pharma-norm/Magasin SAT - E-commerce - Google Chrome 17_05_2026 4_30_31 PM.png" },
+        { "id": 7, "url": "pharma-norm/Magasin SAT - E-commerce - Google Chrome 17_05_2026 4_31_14 PM.png" },
+        { "id": 8, "url": "pharma-norm/Magasin SAT - E-commerce - Google Chrome 17_05_2026 4_31_18 PM.png" },
+        { "id": 9, "url": "pharma-norm/Magasin SAT - E-commerce - Google Chrome 17_05_2026 4_31_28 PM.png" },
+        { "id": 10, "url": "pharma-norm/Magasin SAT - E-commerce - Google Chrome 17_05_2026 4_31_45 PM.png" },
+        { "id": 11, "url": "pharma-norm/Magasin SAT - E-commerce - Google Chrome 17_05_2026 4_31_48 PM.png" },
+        { "id": 12, "url": "pharma-norm/Magasin SAT - E-commerce - Google Chrome 17_05_2026 4_31_54 PM.png" },
+        { "id": 13, "url": "pharma-norm/Magasin SAT - E-commerce - Google Chrome 17_05_2026 4_32_10 PM.png" }
       ]
     },
     {
       "id": 4,
-      "name": "Rainy Forecast | Weather Forecast APP",
-      "type": "Solo Work",
-      "date": "Aout, 2023 - Septembre, 2023",
-      "skills": "HTML, CSS, JS, React Js, Bootstrap, Matrial UI",
-      "description": "The Rainy Forecast app provides you with the current weather conditions and a 3-day weather forecast at your fingertips. Stay prepared for any outdoor plans by easily checking the rain forecast and other important weather information, helping you make the most of your day. Powered by Weatherapi API.",
-      "github_code1": "https://github.com/Youssef-Bedoui/Rainy_Forecast_Web_App",
-      "website": "https://youssef-bedoui.github.io/Rainy_Forecast_Web_App/",
+      "name": "2NCODES | BUSINESS MANAGEMENT PLATFORM",
+      "type": "Professional Work - Atomic IT",
+      "date": "Mars 2024 - Present",
+      "skills": "React, Redux Toolkit, Material-UI, Chart.js, Recharts, Framer Motion, Socket.IO, Draft.js",
+      "description": "A comprehensive multi-panel business management platform built with React. Features include advanced dashboard with interactive charts and analytics, rich text editor for content management, PDF generation and export, QR code generation, real-time communication via Socket.IO, date management with pickers, and a responsive multi-panel layout. Built with Redux for state management and Framer Motion for smooth animations.",
       "images": [
-        {
-          "id": 1,
-          "url": "RainyForecast/Rainy Forecast - Opera 03_03_2024 5_34_20 PM.png"
-        },
-        {
-          "id": 2,
-          "url": "RainyForecast/Rainy Forecast - Opera 03_03_2024 5_34_30 PM.png"
-        },
-        {
-          "id": 3,
-          "url": "RainyForecast/Rainy Forecast - Opera 03_03_2024 5_34_43 PM.png"
-        }
+        { "id": 1, "url": "2ncodes/2ncodes-dashboard.png" },
+        { "id": 2, "url": "2ncodes/2ncodes-charts.png" },
+        { "id": 3, "url": "2ncodes/2ncodes-panel.png" },
+        { "id": 4, "url": "2ncodes/2ncodes-reports.png" }
       ]
     },
     {
       "id": 5,
-      "name": "Al Aajel News | News Website",
-      "type": "Solo Work",
-      "date": "Septembre, 2023 - Novermbre, 2023",
-      "skills": "HTML, SCSS, JS, React Js, React-Redux",
-      "description": "Al Aajel News: Your one-stop platform for diverse news articles from various sources and live news channels, all in a simple and user-friendly interface. Powered by Newsapi API.",
-      "github_code1": "https://github.com/Youssef-Bedoui/Al-Aajel-News-Website.git",
+      "name": "SAUDI WATER AUTHORITY | SECURITY MANAGEMENT APP",
+      "type": "Professional Work - Atomic IT",
+      "date": "Mars 2024 - Present",
+      "skills": "React, TypeScript, Material-UI, Redux Toolkit, React Query, Leaflet Maps, Chart.js, i18next, Socket.IO",
+      "description": "A security management application for the Saudi Water Authority built with React and TypeScript. Features include interactive map integration with Leaflet for location tracking, comprehensive dashboard with data visualization charts, real-time notifications via Socket.IO, multi-language support (i18next) with RTL, form management with React Hook Form, PDF report generation, and role-based access control. Designed for enterprise-level security operations monitoring.",
       "images": [
-        {
-          "id": 1,
-          "url": "Al_Aajel_News/Al Aajel News - Opera 31_01_2024 5_39_29 PM.png"
-        },
-        {
-          "id": 2,
-          "url": "Al_Aajel_News/Al Aajel News - Opera 31_01_2024 5_39_50 PM.png"
-        },
-        {
-          "id": 3,
-          "url": "Al_Aajel_News/Al Aajel News - Opera 31_01_2024 5_44_36 PM.png"
-        },
-        {
-          "id": 4,
-          "url": "Al_Aajel_News/Al Aajel News - Opera 31_01_2024 5_44_42 PM.png"
-        },
-        {
-          "id": 5,
-          "url": "Al_Aajel_News/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_53 PM.png"
-        },
-        {
-          "id": 6,
-          "url": "Al_Aajel_News/Al Aajel News et 6 pages de plus - Personnel – Microsoft​ Edge 07_11_2023 9_59_43 PM.png"
-        }
+        { "id": 1, "url": "swa/SWA_textlogo.png" }
       ]
     },
     {
       "id": 6,
-      "name": "Phone Area | Tech Blogging Website",
+      "name": "ATOMIC IT | COMPANY WEBSITE & ADMIN DASHBOARD",
+      "type": "Professional Work - Atomic IT",
+      "date": "Mars 2024 - Present",
+      "skills": "React, Redux, Framer Motion, i18next, Tailwind CSS, React Helmet",
+      "description": "The official Atomic IT company website with a full-featured admin dashboard. The client-facing website includes multi-language support (English, French, Arabic with RTL), smooth page transitions with Framer Motion, services showcase, project portfolio, blog section, and contact forms. The admin dashboard provides complete CMS capabilities with JWT authentication, content management for services, projects, technologies, team members, blog posts, statistics, and contact submissions.",
+      "images": [
+        { "id": 1, "url": "atomic/Atomic IT - Engineering Digital Innovation - Google Chrome 17_05_2026 6_56_18 PM.png" },
+        { "id": 2, "url": "atomic/Atomic IT - Engineering Digital Innovation - Google Chrome 17_05_2026 6_56_14 PM.png" },
+        { "id": 3, "url": "atomic/Atomic IT - Engineering Digital Innovation - Google Chrome 17_05_2026 6_56_08 PM.png" },
+        { "id": 4, "url": "atomic/Atomic IT - Engineering Digital Innovation - Google Chrome 17_05_2026 6_56_01 PM.png" },
+        { "id": 5, "url": "atomic/Atomic IT - Engineering Digital Innovation - Google Chrome 17_05_2026 6_55_45 PM.png" },
+        { "id": 6, "url": "atomic/Atomic IT - Engineering Digital Innovation - Google Chrome 17_05_2026 6_55_35 PM.png" },
+        { "id": 7, "url": "atomic/Atomic IT - Engineering Digital Innovation - Google Chrome 17_05_2026 6_55_32 PM.png" },
+        { "id": 8, "url": "atomic/Atomic IT - Engineering Digital Innovation - Google Chrome 17_05_2026 6_55_25 PM.png" },
+        { "id": 9, "url": "atomic/Atomic IT - Engineering Digital Innovation - Google Chrome 17_05_2026 6_55_17 PM.png" },
+        { "id": 10, "url": "atomic/Atomic IT - Engineering Digital Innovation - Google Chrome 17_05_2026 6_55_10 PM.png" },
+        { "id": 11, "url": "atomic/Atomic IT - Engineering Digital Innovation - Google Chrome 17_05_2026 6_55_07 PM.png" },
+        { "id": 12, "url": "atomic/Atomic IT - Engineering Digital Innovation - Google Chrome 17_05_2026 6_54_55 PM.png" },
+        { "id": 13, "url": "atomic/Atomic IT - Engineering Digital Innovation - Google Chrome 17_05_2026 6_54_46 PM.png" },
+        { "id": 14, "url": "atomic/Atomic IT - Engineering Digital Innovation - Google Chrome 17_05_2026 6_54_22 PM.png" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "AL ANBAR UNIVERSITY | UNIVERSITY MANAGEMENT SYSTEM",
+      "type": "Professional Work - Atomic IT",
+      "date": "Mars 2024 - Present",
+      "skills": "React, Node.js, Express, MySQL, JWT Authentication, SCSS",
+      "description": "A full-stack university management system for Al Anbar University. The frontend provides a comprehensive interface for students and administrators with course management, student records, scheduling, and academic reporting. Built with React for the client-side and Node.js/Express with MySQL for the backend. Features include secure JWT authentication, responsive design, and client-side routing with proper server configuration.",
+      "images": [
+        { "id": 1, "url": "al-anbar/التصنيف الجامعي لكليات جامعة الأنبار - Google Chrome 17_05_2026 10_15_46 PM.png" },
+        { "id": 2, "url": "al-anbar/التصنيف الجامعي لكليات جامعة الأنبار - Google Chrome 17_05_2026 10_15_51 PM.png" },
+        { "id": 3, "url": "al-anbar/التصنيف الجامعي لكليات جامعة الأنبار - Google Chrome 17_05_2026 10_15_57 PM.png" },
+        { "id": 4, "url": "al-anbar/التصنيف الجامعي لكليات جامعة الأنبار - Google Chrome 17_05_2026 10_16_07 PM.png" },
+        { "id": 5, "url": "al-anbar/التصنيف الجامعي لكليات جامعة الأنبار - Google Chrome 17_05_2026 10_16_14 PM.png" },
+        { "id": 6, "url": "al-anbar/التصنيف الجامعي لكليات جامعة الأنبار - Google Chrome 17_05_2026 10_21_02 PM.png" },
+        { "id": 7, "url": "al-anbar/التصنيف الجامعي لكليات جامعة الأنبار - Google Chrome 17_05_2026 10_21_06 PM.png" },
+        { "id": 8, "url": "al-anbar/التصنيف الجامعي لكليات جامعة الأنبار - Google Chrome 17_05_2026 10_21_09 PM.png" },
+        { "id": 9, "url": "al-anbar/التصنيف الجامعي لكليات جامعة الأنبار - Google Chrome 17_05_2026 10_22_50 PM.png" },
+        { "id": 10, "url": "al-anbar/التصنيف الجامعي لكليات جامعة الأنبار - Google Chrome 17_05_2026 10_22_54 PM.png" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "KLUPEA | E-COMMERCE APP",
       "type": "Solo Work",
-      "date": "October, 2023 - January, 2024",
-      "skills": "HTML, SCSS, JS, React Js, React-Redux, node js, mongodb",
-      "description": "Phone Area: Your website where you can get the latest news about Technology, smartphones, and discover the best deals in the market !",
+      "date": "Octobre 2022 - February 2023",
+      "skills": "HTML, CSS, JS, React JS, Redux, Bootstrap, Material UI, Express JS, MySQL",
+      "description": "Klupea is an e-commerce web application built with React. It's a simple and user-friendly online clothing store that offers a wide variety of apparel for all genders and ages. The website's design is visually appealing and provides a seamless shopping experience. With easy navigation and secure checkout process, Klupea is an excellent choice for anyone looking to purchase high-quality clothing online.",
+      "github_code1": "https://github.com/Youssef-Bedoui/Klupea-with-Redux",
+      "github_code2": "https://github.com/Youssef-Bedoui/Klupea-with-redux-backend",
+      "images": [
+        { "id": 1, "url": "klupea/Klupea_main.png" },
+        { "id": 2, "url": "klupea/2023-03-02 (4).png" },
+        { "id": 3, "url": "klupea/Klupea - Opera 01_06_2023 12_00_32 AM.png" },
+        { "id": 4, "url": "klupea/Klupea - Opera 01_06_2023 12_00_42 AM.png" },
+        { "id": 5, "url": "klupea/Klupea - Opera 31_05_2023 11_57_33 PM.png" }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "EVENTOGO | EVENT DISCOVERY PLATFORM",
+      "type": "Solo Work",
+      "date": "February 2023 - April 2023",
+      "skills": "HTML, CSS, JS, Vue JS, Bootstrap, Express JS, MySQL",
+      "description": "Eventogo is a website that helps people easily check and search for the nearest events they can attend. Users can browse events by location, category, and date, making it simple to discover local activities and gatherings.",
+      "github_code1": "https://github.com/Youssef-Bedoui/Klupea-E-commerce-app.git",
+      "github_code2": "https://github.com/Youssef-Bedoui/Klupea-back.git",
+      "images": [
+        { "id": 1, "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_40_49 AM.png" },
+        { "id": 2, "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_36_24 AM.png" },
+        { "id": 3, "url": "Eventogo/EvenToGo - Opera 28_04_2023 12_36_41 AM.png" }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "MOVIELIGHTS | MOVIE DISCOVERY WEB APP",
+      "type": "Solo Work",
+      "date": "April 2023 - May 2023",
+      "skills": "HTML, CSS, JS, React JS + Redux, Material UI, Framer Motion, TMDB API",
+      "description": "MovieLights is the ultimate destination for movie enthusiasts. Offers a comprehensive platform to search for movies and access key details, including storyline, cast & crew, ratings, and trailers. Stay up-to-date with the latest releases and make informed decisions on what to watch next.",
+      "github_code1": "https://github.com/Youssef-Bedoui/MovieLights-Web-app",
+      "website": "https://youssef-bedoui.github.io/MovieLights-Web-app",
+      "images": [
+        { "id": 1, "url": "MovieLights/React App - Opera 14_05_2023 9_09_16 PM.png" },
+        { "id": 2, "url": "MovieLights/React App - Opera 07_05_2023 2_32_03 AM.png" },
+        { "id": 3, "url": "MovieLights/React App - Opera 07_05_2023 2_32_16 AM.png" }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "RAINY FORECAST | WEATHER APP",
+      "type": "Solo Work",
+      "date": "August 2023 - September 2023",
+      "skills": "HTML, CSS, JS, React JS, Bootstrap, Material UI, WeatherAPI",
+      "description": "The Rainy Forecast app provides current weather conditions and a 3-day weather forecast at your fingertips. Stay prepared for any outdoor plans by easily checking the rain forecast and other important weather information. Powered by WeatherAPI.",
+      "github_code1": "https://github.com/Youssef-Bedoui/Rainy_Forecast_Web_App",
+      "website": "https://youssef-bedoui.github.io/Rainy_Forecast_Web_App/",
+      "images": [
+        { "id": 1, "url": "RainyForecast/Rainy Forecast - Opera 03_03_2024 5_34_20 PM.png" },
+        { "id": 2, "url": "RainyForecast/Rainy Forecast - Opera 03_03_2024 5_34_30 PM.png" }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "AL AAJEL NEWS | NEWS WEBSITE",
+      "type": "Solo Work",
+      "date": "September 2023 - November 2023",
+      "skills": "HTML, SCSS, JS, React JS, React-Redux, NewsAPI",
+      "description": "Al Aajel News: Your one-stop platform for diverse news articles from various sources and live news channels, all in a simple and user-friendly interface. Powered by NewsAPI.",
+      "github_code1": "https://github.com/Youssef-Bedoui/Al-Aajel-News-Website.git",
+      "images": [
+        { "id": 1, "url": "Al_Aajel_News/Al Aajel News - Opera 31_01_2024 5_39_29 PM.png" },
+        { "id": 2, "url": "Al_Aajel_News/Al Aajel News - Opera 31_01_2024 5_39_50 PM.png" },
+        { "id": 3, "url": "Al_Aajel_News/Al Aajel News - Opera 31_01_2024 5_44_36 PM.png" }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "PHONE AREA | TECH BLOGGING WEBSITE",
+      "type": "Solo Work",
+      "date": "October 2023 - January 2024",
+      "skills": "HTML, SCSS, JS, React JS, React-Redux, Node JS, MongoDB",
+      "description": "Phone Area: Your website where you can get the latest news about Technology, smartphones, and discover the best deals in the market!",
       "github_code1": "https://github.com/Youssef-Bedoui/Phone_Area_Frontend",
       "github_code2": "https://github.com/Youssef-Bedoui/Phone_Area_Backend",
-      "website": "https://youssef-bedoui.github.io/Phone_Area_Frontend",
       "images": [
-        {
-          "id": 1,
-          "url": "Phone Area/Phone Area -13_02_2024 6_42_13 PM.png"
-        },
-        {
-          "id": 2,
-          "url": "Phone Area/Phone Area - 13_02_2024 6_42_25 PM.png"
-        },
-        {
-          "id": 3,
-          "url": "Phone Area/Phone Area -13_02_2024 6_42_32 PM.png"
-        },
-        {
-          "id": 4,
-          "url": "Phone Area/Phone Area - 13_02_2024 7_03_57 PM.png"
-        },
-        {
-          "id": 5,
-          "url": "Phone Area/Phone Area -13_02_2024 7_04_12 PM.png"
-        },
-        {
-          "id": 6,
-          "url": "Phone Area/Phone Area - 13_02_2024 7_04_22 PM.png"
-        },
-        {
-          "id": 7,
-          "url": "Phone Area/Phone Area - 13_02_2024 7_04_29 PM.png"
-        },
-        {
-          "id": 8,
-          "url": "Phone Area/Phone Area - 13_02_2024 7_04_35 PM.png"
-        },
-        {
-          "id": 9,
-          "url": "Phone Area/Phone Area - 13_02_2024 7_04_53 PM.png"
-        },
-        {
-          "id": 10,
-          "url": "Phone Area/Phone Area -13_02_2024 7_05_01 PM.png"
-        },
-        {
-          "id": 11,
-          "url": "Phone Area/Phone Area -13_02_2024 7_05_18 PM.png"
-        }
+        { "id": 1, "url": "Phone Area/Phone Area -13_02_2024 6_42_13 PM.png" },
+        { "id": 2, "url": "Phone Area/Phone Area - 13_02_2024 6_42_25 PM.png" },
+        { "id": 3, "url": "Phone Area/Phone Area -13_02_2024 6_42_32 PM.png" }
       ]
     }
   ]

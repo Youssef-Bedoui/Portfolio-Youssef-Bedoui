@@ -42,6 +42,11 @@ function Resume() {
                 <div class="place">DESIGNET Web Agency (Menzel Temime)</div>
                 <div class="event">Frontend developer</div>
               </div>
+              <div class="education_item">
+                <div class="date">Mars 2024 - Juin 2026</div>
+                <div class="place">Atomic IT PRO</div>
+                <div class="event">Full Stack Developer</div>
+              </div>
             </div>
           </div>
           <div className="right_section">

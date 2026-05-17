@@ -1,52 +1,10 @@
-  import React, { useState } from "react";
+  import React from "react";
 import "./contact.scss";
 import LocationOnOutlinedIcon from "@mui/icons-material/LocationOnOutlined";
 import MailOutlineOutlinedIcon from "@mui/icons-material/MailOutlineOutlined";
 import PhoneOutlinedIcon from "@mui/icons-material/PhoneOutlined";
-import Alert from "@mui/material/Alert";
-import AlertTitle from "@mui/material/AlertTitle";
 
 function Contact() {
-  const [success, setSuccess] = useState(false);
-  const [error, setError] = useState(false);
-const handleFormSubmit = async (e) => {
-  e.preventDefault();
-
-  const formData = {
-    name: e.target.name.value,
-    email: e.target.email.value,
-    message: e.target.message.value,
-  };
-
-  console.log(formData);
-
-  try {
-    const response = await fetch(
-      "https://portfolio-back-yw6i.onrender.com/contact_me/",
-      {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: formData, 
-      }
-    );
-
-    if (response.ok) {
-      setSuccess(true);
-      setError(false);
-    } else {
-      setError(true);
-      setSuccess(false);
-    }
-  } catch (error) {
-    console.log(error);
-    setError(true);
-    setSuccess(false);
-  }
-};
-
-
   return (
     <section id="contact">
       <div className="left_section">
@@ -84,43 +42,6 @@ const handleFormSubmit = async (e) => {
           </div>
         </div>
       </div>
-      <form
-   
-        className="right_section"
-        onSubmit={handleFormSubmit}
-      >
-        <h3>
-          CONTACT FORM
-          <div className="line"></div>
-        </h3>
-        <input placeholder="Name" className="input" name="name" type="text"/>
-        <input
-          placeholder="E-mail"
-          className="input"
-          name="email"
-          type="email"
-        />
-        <textarea
-          name="message"
-          className="messageArea"
-          placeholder="Your message..."
-        />
-        <button className="submit submitBtn" type="submit">
-          SEND MESSAGE
-        </button>
-        {success && (
-          <Alert severity="success">
-            <AlertTitle>Success</AlertTitle>
-            Your Message sent successfully.
-          </Alert>
-        )}
-        {error && (
-          <Alert severity="error">
-            <AlertTitle>Error</AlertTitle>
-            An Error occured !<strong>Please retry later .</strong>
-          </Alert>
-        )}
-      </form>
     </section>
   );
 }
