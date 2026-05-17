@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Youssef-Bedoui/static/css/main.511b4f9e.css",
-    "main.js": "/Portfolio-Youssef-Bedoui/static/js/main.a6105682.js",
+    "main.js": "/Portfolio-Youssef-Bedoui/static/js/main.35a21905.js",
     "static/media/profile_photo.png": "/Portfolio-Youssef-Bedoui/static/media/profile_photo.1598651cc1abe52e6fee.png",
     "static/media/التصنيف الجامعي لكليات جامعة الأنبار - Google Chrome 17_05_2026 10_16_14 PM.png": "/Portfolio-Youssef-Bedoui/static/media/التصنيف الجامعي لكليات جامعة الأنبار - Google Chrome 17_05_2026 10_16_14 PM.a780ff2877a2c1b6130e.png",
     "static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.png": "/Portfolio-Youssef-Bedoui/static/media/EvenToGo - Opera 28_04_2023 12_40_49 AM.1a27bc4bb1b1d89e2378.png",
@@ -159,10 +159,10 @@
     "static/media/services-1.webp": "/Portfolio-Youssef-Bedoui/static/media/services-1.c7b62c977d66365859a7.webp",
     "index.html": "/Portfolio-Youssef-Bedoui/index.html",
     "main.511b4f9e.css.map": "/Portfolio-Youssef-Bedoui/static/css/main.511b4f9e.css.map",
-    "main.a6105682.js.map": "/Portfolio-Youssef-Bedoui/static/js/main.a6105682.js.map"
+    "main.35a21905.js.map": "/Portfolio-Youssef-Bedoui/static/js/main.35a21905.js.map"
   },
   "entrypoints": [
     "static/css/main.511b4f9e.css",
-    "static/js/main.a6105682.js"
+    "static/js/main.35a21905.js"
   ]
 }
