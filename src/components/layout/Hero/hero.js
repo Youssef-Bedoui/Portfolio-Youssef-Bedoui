@@ -17,7 +17,7 @@ function Hero() {
         <span className="intro_info">
           I'm <span className="intro_name">Youssef Bedoui</span>
           <br />
-          Senior Frontend Developer
+          Full Stack JS Developer
         </span>
         <p className="intro_content">
           Experienced frontend developer specializing in React, Next.js, and TypeScript. Building enterprise-grade applications, e-commerce platforms, and complex dashboards with modern web technologies.
