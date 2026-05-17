@@ -46,9 +46,9 @@ function Hero() {
             <BusinessCenterTwoToneIcon className="btnIcon" />
             HIRE ME
           </Link>
-          <Link to={cv} className="link" download>
+          <a href={cv} className="link" download="Youssef_Bedoui_CV.pdf">
             <DownloadTwoToneIcon className="btnIcon" /> Download CV
-          </Link>
+          </a>
         </div>
       </div>
     </section>
